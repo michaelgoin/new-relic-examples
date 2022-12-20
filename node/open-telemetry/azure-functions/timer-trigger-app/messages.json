@@ -1,0 +1,8 @@
+[
+  {"name": "AzureBot"},
+  {"name": "AzureBot", "forceStatus": "507"},
+  {"name": "AzureBot", "forceStatus": "202"},
+  {"name": "AzureBot", "forceStatus": "200"},
+  {"name": "AzureBot", "forceStatus": "400"},
+  {"name": "AzureBot", "throws": "true"}
+]
